@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Data files (keep pattern_database.json)
+data/*.json
+!data/pattern_database.json
+
+# OS
+.DS_Store
+.idea/
+.vscode/
+
+# Research data
+*.log
+*.csv
+results/
