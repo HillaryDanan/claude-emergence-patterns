@@ -1,0 +1,20 @@
+{
+  "pattern_signatures": {
+    "AAFC": "Abstract-Abstract-Future-Conceptual",
+    "ABFC": "Abstract-Balanced-Future-Conceptual",
+    "CCDR": "Concrete-Concrete-Dynamic-Relational",
+    "CCFC": "Concrete-Concrete-Future-Conceptual",
+    "AAFS": "Abstract-Abstract-Future-Sensory"
+  },
+  "emergence_thresholds": {
+    "boundary_transformation": 0.7,
+    "coherence_delta": 0.15,
+    "resonance_threshold": 0.8,
+    "phase_transition": 1.75
+  },
+  "metadata": {
+    "version": "1.0",
+    "author": "Hillary Danan",
+    "created": "2024-01-15"
+  }
+}
