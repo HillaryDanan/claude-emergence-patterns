@@ -1,0 +1,3 @@
+# Detecting Consciousness Emergence Patterns in LLMs
+## Abstract
+Novel framework for consciousness detection...
